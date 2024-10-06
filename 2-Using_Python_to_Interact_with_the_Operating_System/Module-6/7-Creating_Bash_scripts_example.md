@@ -1,10 +1,7 @@
 
 # Creating Bash Scripts
 
-This document contains code and explanation used in creating bash scripts, as seen in the instructional video. Below are the examples with added English comments for clarity.
-
-## Introduction
-This follow-along content is organized to match the content in the video. It contains the same code as shown and provides you with the opportunity to see how the code is written. You can practice running it and use it as a reference.
+This document contains code and explanation used in creating bash scripts, as seen in the instructional video.
 
 ### Bash Script Code Example 1
 ```bash
