@@ -1,9 +1,6 @@
 
 # Using Variables and Globs
 
-This document covers the use of variables and glob patterns in Bash scripting as demonstrated in the instructional video. The following examples and outputs will help clarify how to use variables and wildcard patterns effectively in Bash.
-
-
 ### Using Variables in Bash
 ```bash
 example=hello  # Assigns the string "hello" to the variable named "example"

@@ -1,8 +1,6 @@
 
 # Conditional Execution in Bash
 
-This document contains code and explanation on using conditional statements in Bash scripting, as seen in the instructional video. Below are the examples with added comments for clarity.
-
 ### Basic Conditional Example
 ```bash
 if grep "127\.0\.0\.1" /etc/hosts; then  # Check if the string "127.0.0.1" exists in the /etc/hosts file

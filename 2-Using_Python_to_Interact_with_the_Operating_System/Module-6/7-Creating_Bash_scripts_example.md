@@ -1,8 +1,6 @@
 
 # Creating Bash Scripts
 
-This document contains code and explanation used in creating bash scripts, as seen in the instructional video.
-
 ### Bash Script Code Example 1
 ```bash
 #!/bin/bash  # This line specifies that the script should be executed using the Bash shell
